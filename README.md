@@ -1,65 +1,39 @@
-<h1 align="center">Hi there, I'm Mikolas 👋</h1>
+# 👋 Ahoj, jsem Mikolas
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=9wfw78q6ch-afk&label=Profile%20views&color=0e79b6&style=flat" alt="9wfw78q6ch-afk" />
-  <img src="https://img.shields.io/github/followers/9wfw78q6ch-afk?label=Followers&style=social" alt="Followers" />
-</p>
+Full-stack developer z Prahy 🇨🇿 | Python · TypeScript · JavaScript
 
-<p align="center">
-  Student from Prague. Building things with Python, TypeScript, and JavaScript. Interested in AI, Telegram bots, and creative coding projects.
-</p>
+## 🚀 Projekty
 
----
+| Projekt | Tech | Popis |
+|---------|------|-------|
+| [telegram-bot](https://github.com/9wfw78q6ch-afk/telegram-bot) | Python | Telegram bot |
+| [my-fake-casino](https://github.com/9wfw78q6ch-afk/my-fake-casino) | TypeScript | Casino simulace |
+| [nova-crypto-casino-v.1](https://github.com/9wfw78q6ch-afk/nova-crypto-casino-v.1.) | — | Crypto casino |
+| [cherry-blossom-tree](https://github.com/9wfw78q6ch-afk/cherry-blossom-tree) | Three.js | 🌸 3D voxel pagoda garden (~110k voxelů) |
+| [snake-contribution](https://github.com/9wfw78q6ch-afk/snake-contribution) | GitHub Actions | 🐍 Animated contribution snake |
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://telegram.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/> </a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9wfw78q6ch-afk&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9wfw78q6ch-afk/snake-contribution/main/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9wfw78q6ch-afk/snake-contribution/main/snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/9wfw78q6ch-afk/snake-contribution/main/snake.svg" />
+</picture>
 
 ---
 
-## 📊 GitHub Stats
+📫 Kontakt: [Telegram](https://t.me/) · ✉️ Email
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9wfw78q6ch-afk&show_icons=true&theme=radical&counters_format=0x0a&rank_icon=github" alt="Mikolas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9wfw78q6ch-afk&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9wfw78q6ch-afk&theme=radical&area=true&hide_border=true&weekstartsonmonday=false&bg_color=0d1117&color=0ea5e9&line=0ea5e9" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-## 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| [**telegram-bot**](https://github.com/9wfw78q6ch-afk/telegram-bot) | Automatic Telegram bot for AI news — Python |
-| [**my-fake-casino**](https://github.com/9wfw78q6ch-afk/my-fake-casino) | Fake crypto casino for personal use — TypeScript |
-| [**nova-crypto-crypto-casino-v.1.**](https://github.com/9wfw78q6ch-afk/nova-crypto-crypto-casino-v.1.) | Small fake currency casino — personal project |
-| [**goal-tracker**](https://github.com/9wfw78q6ch-afk/goal-tracker) | School project — Tracking goals — JavaScript |
-| [**timer**](https://github.com/9wfw78q6ch-afk/timer) | Studying timer — School project — JavaScript |
-| [**flash-cards**](https://github.com/9wfw78q6ch-afk/flash-cards) | Simple flash card generator — JavaScript |
-
----
-
-## 📬 Connect
-
-<p align="center">
-  <a href="https://github.com/9wfw78q6ch-afk" target="_blank">
-    <img src="https://img.shields.io/github/followers/9wfw78q6ch-afk?label=Follow&style=social" alt="Follow on GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Prague, Czech Republic</b> 🇨🇿
-</p>
-
-<p align="center">
-  <i>Learning, building, and experimenting — one project at a time.</i>
-</p>
+</content>
