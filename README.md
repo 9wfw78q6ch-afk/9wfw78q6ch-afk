@@ -34,6 +34,6 @@ Full-stack developer z Prahy 🇨🇿 | Python · TypeScript · JavaScript
 
 ---
 
-📫 Kontakt: [Telegram](https://t.me/) · ✉️ Email
+📫 Kontakt:  ✉️ Email - drafted.byx@gmail.com
 
 </content>
